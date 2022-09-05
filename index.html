@@ -9,6 +9,10 @@
    <title>Document</title>
 
    <style>
+      .vl{
+         border-left: 1px solid gray;
+
+      }
       .item{
          width: 300px;
       }
@@ -44,7 +48,18 @@
       .language{
          margin-left: 300px;
       }
-      
+      header{
+         margin-top: 150px;
+      }
+      .atitute{
+         margin-left: 350px;
+      }
+      @media only screen and (max-width: 600px) {
+         .atitute {
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+         }
+      }
    </style>
 </head>
 <body>
@@ -273,6 +288,46 @@
          </div>
       </div>
    </nav>
+<!-- navbar end -->
+<header>
+   <section class="d-flex align-items-center justify-content-center">
+      <article>
+         <h1>দেশের ১ নম্বর</h1>
+         <h1>ডিজিটাল প্ল্যাটফর্ম</h1>
+         <p>এক অ্যাপেই পাবেন সব সমাধান</p>
+         <button class="p-3 btn btn-danger">আয় করুন</button>
+         <button class="p-3 btn btn-success">ডাউনলোড অ্যাপ</button>
+      </article>
+      <article class="ms-5">
+         <img class="rounded-pill" src="images/Screenshot (21).png" alt="">
+      </article>
+      
+   </section>
+</header>
+
+<section>
+         <div class="w-50 atitute">
+            <div class="d-flex justify-content-center shadow-lg p-3 mb-5 bg-white rounded">
+               <div class="">
+                  <h1>01+</h1>
+                  <h4>অ্যাপ ডাউনলোড</h4>
+               </div>
+               <span class="vl ms-4"></span>
+
+               <div class="ms-3 mr-2">
+                  <h1>01+</h1>
+                  <h4>সফল ট্রিপ/অর্ডার</h4>
+               </div>
+               <span class="vl ms-4"></span>
+
+               <div class="ms-3">
+                  <h1>01+</h1>
+                  <h4>মানুষের অগ্রযাত্রায়</h4>
+               </div>
+            </div>
+         </div>
+</section>
+
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 </body>
