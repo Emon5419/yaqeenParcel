@@ -1,5 +1,4 @@
 # Yaqeen Express
-## Couriar Service
 Our Activities and Future Plan As Sundarban is very active it does diversify approach to cater to the mass in more ways than one. At the same time it does consider options whereby which it is able to address requirements of the people and to provide more options for them to avail down the road. In so doing it is able to actually come up with services that only it and a handful of companies may be able to provide. With destination roadmaps set, the team of Sundarban is able to set targets, milestones and are thus able to obtain achievements which are quite unique. However in the end of the day it is the people who benefit most from this. Their blessings are a reward to Sundarban.
 Our main focus is to be actually provide flexibility in last mile coverage in more ways than one both in urban as well as in rural Bangladesh. For obtaining these achievements whatever is required will be accordingly done with the consent of the Management and the delegated teams will be given targets.
 
